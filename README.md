@@ -1,17 +1,25 @@
- Welcome to the Target Data Analysis project! 🎉
+# Welcome to the Target Data Analysis project! 🎉
 
 As a data scientist at Target, you've been given the exciting opportunity to analyze 100k orders from 2016 to 2018 made at Target in Brazil. 🌎🇧🇷
 
 📚 The dataset is available in 8 csv files:
 
-customers.csv 🧑‍🤝‍🧑
-geolocation.csv 🗺️
-order_items.csv 🛍️
-payments.csv 💳
-reviews.csv 📝
-orders.csv 📦
-products.csv 📝
-sellers.csv 👩‍💼
+1.customers.csv 🧑‍🤝‍🧑
+
+2.geolocation.csv 🗺️
+
+3.order_items.csv 🛍️
+
+4.payments.csv 💳
+
+5.reviews.csv 📝
+
+6.orders.csv 📦
+
+7.products.csv 📝
+
+8.sellers.csv 👩‍💼
+
 🔍 So, what does 'good' look like? We'll import the dataset and perform exploratory analysis steps to check the structure, characteristics, data types, and time period for which the data is given. We'll also look at the cities and states of customers who ordered during the given period. 🕵️‍♀️
 
 🔍 In-depth Exploration:
